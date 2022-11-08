@@ -1,3 +1,3 @@
 # Applied-Machine-Learning-course
 
-This repository will be updated soon . . . 
+This repository is getting updated . . .
